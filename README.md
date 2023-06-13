@@ -8,7 +8,7 @@ This application is built to continue motivating people every morning when they 
 
 Deployed Application: https://wobbledy.github.io/Motivate-Me/
 
-GitHub Repo: https://github.com/wobbledy/Motivate-Me
+GitHub Repo: https://github.com/BlakeReece3/Motivate-Me
 
 ## Application Screenshots
 
